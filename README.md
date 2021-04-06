@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 -->
 # Hello my friends! 👋
 
-🧑 My name is Rodrigo Franco de Lima;
+🧑 My name is Rodrigo Franco de Lima, and this account is for work (Zup It Innovation);
+
+My personal profile is: @RodrigoFranco91
 
 🇧🇷 I'm from Pouso Alegre - MG;
 
-💻 I'm a Web Developer and currently **I'm looking for a new job**;
+💻 I'm a Web Developer and currently **I'm working at Zup**;
 
-📜 I have a degree in Information Systems and I am doing graduate course at Mobile Development and Cloud Computing.
+📜 I have a degree in Information Systems and graduate course at Mobile Development and Cloud Computing.
 
 📫 How to reach me 👇🏼
 
