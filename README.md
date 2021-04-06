@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello my friends! 👋
+# Hello my friends! My personal profile is: [RodrigoFranco91](https://github.com/RodrigoFranco91)👋
 
-🧑 My name is Rodrigo Franco de Lima, and this account is for work. My personal profile is: @RodrigoFranco91
+🧑 My name is Rodrigo Franco de Lima, and this account is for work;
 
 🇧🇷 I'm from Pouso Alegre - MG;
 
