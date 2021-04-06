@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 # Hello my friends! 👋
 
-🧑 My name is Rodrigo Franco de Lima, and this account is for work (Zup It Innovation);
-
-My personal profile is: @RodrigoFranco91
+🧑 My name is Rodrigo Franco de Lima, and this account is for work. My personal profile is: @RodrigoFranco91
 
 🇧🇷 I'm from Pouso Alegre - MG;
 
