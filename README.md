@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 # Hello my friends! My personal profile is: [RodrigoFranco91](https://github.com/RodrigoFranco91)👋
 
-🧑 My name is Rodrigo Franco de Lima, and this account is for work (Zup It Innovation);
+🧑 My name is Rodrigo Franco de Lima, and this account is for work [(Zup It Innovation)](https://www.zup.com.br/);
 
 🇧🇷 I'm from Pouso Alegre - MG;
 
-💻 I'm a Web Developer and currently **I'm working at Zup**;
+💻 I'm a Web Developer and currently **I'm working at [Zup](https://www.zup.com.br/)**;
 
 📜 I have a degree in Information Systems and graduate course at Mobile Development and Cloud Computing.
 
